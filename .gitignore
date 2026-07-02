@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+vkinova89/
+
+
+# VSCode
+.vscode/
+
+# ROS2
+build/
+install/
+log/
+
+# Modelos de IA
+*.pt
+*.onnx
+
+# YOLO
+runs/
+
+# Linux
+*.swp
