@@ -1,0 +1,6 @@
+alexander@alexander-K501UX:~/kinova_project$ source vkinova39/bin/activate
+(vkinova39) alexander@alexander-K501UX:~/kinova_project/general$ python iniciarkinova.py 
+~/kinova_project/general$ python limNEDown.py 
+
+
+
