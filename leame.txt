@@ -4,3 +4,13 @@ alexander@alexander-K501UX:~/kinova_project$ source vkinova39/bin/activate
 
 
 
+
+
+
+git pull
+git add .
+git commit -m "..."
+git push
+
+
+
